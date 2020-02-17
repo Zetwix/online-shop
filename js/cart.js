@@ -87,6 +87,7 @@ class Cart {
   cartLength() {
     return Object.keys(this.cart).length;
   }
+
   order(ev) {
     if (this.cartLength() === 0) {
       window.showAlert('Please choose products to order', false);

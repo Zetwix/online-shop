@@ -14,7 +14,7 @@
         "price": 199.99
     },
     {
-        "id": "3",
+        "id": "3", 
         "title": "Blue drone",
         "image": "drone-blue.jpg",
         "description": "Nice-looking drone in blue color. Has built-in HD camera",
@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "CAT",
+        "image": "grumpy.jpg",
+        "description": "Best cat in the World",
+        "price": 2999.99
     }
 ]
